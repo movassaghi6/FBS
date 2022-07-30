@@ -1,4 +1,4 @@
-# Food_Billing_System
+# Food-Billing-System
 
 
 Python/Tkinter desktop GUI app to manage customer's orders in a Restaurant.
